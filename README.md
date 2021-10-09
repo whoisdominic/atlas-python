@@ -78,3 +78,11 @@ You can pass a type, method, or other object to help() to instantly see availabl
 ```python
 help(str.isupper)
 ```
+
+## Sections
+
+- web_scraper
+- basic algorithms
+- scripts
+- cli
+- google interview
